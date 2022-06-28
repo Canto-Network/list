@@ -4,7 +4,7 @@
       "symbol": "CANTO",
       "decimals": 18,
       "chainId": 9624,
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/canto.png?token=GHSAT0AAAAAABVRJKF37FA5DFYCDXQQFFSKYV2L6SQ"
     },
     {
       "name": "Aqua",
@@ -12,7 +12,7 @@
       "symbol": "AQUA",
       "decimals": 18,
       "chainId": 9624,
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/aqua.png?token=GHSAT0AAAAAABVRJKF3XSMZ3UXTTO3BBWKQYV2L7AQ"
     },
     {
       "name": "cAqua",
@@ -20,7 +20,7 @@
       "symbol": "CAQUA",
       "decimals": 18,
       "chainId": 9624,
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/aqua.png?token=GHSAT0AAAAAABVRJKF3XSMZ3UXTTO3BBWKQYV2L7AQ"
     },
     {
       "name": "Fiji",
@@ -28,7 +28,7 @@
       "symbol": "FIJI",
       "decimals": 18,
       "chainId": 9624,
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/fiji.png?token=GHSAT0AAAAAABVRJKF3DSJWEIALQ7O6PPSGYV2L7PA"
     },
     {
       "name": "cFiji",
@@ -36,7 +36,7 @@
       "symbol": "CFIJI",
       "decimals": 18,
       "chainId": 9624,
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/fiji.png?token=GHSAT0AAAAAABVRJKF3DSJWEIALQ7O6PPSGYV2L7PA"
     },
     {
       "name": "Evian",
@@ -44,7 +44,7 @@
       "symbol": "EVIAN",
       "decimals": 18,
       "chainId": 9624,
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/evian.png?token=GHSAT0AAAAAABVRJKF2NMSRCVSY6NPRSGAYYV2L72A"
     },
     {
       "name": "cEvian",
@@ -52,7 +52,23 @@
       "symbol": "CEVIAN",
       "decimals": 18,
       "chainId": 9624,
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/evian.png?token=GHSAT0AAAAAABVRJKF2NMSRCVSY6NPRSGAYYV2L72A"
+    },
+    {
+        "name": "Note",
+        "address": "0x7094125d250AF1FbD82640b1cA986f0b591508dc",
+        "symbol": "NOTE",
+        "decimals": 18,
+        "chainId": 9624,
+        "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/note.png?token=GHSAT0AAAAAABVRJKF3GGOWCK227ZSTKRWAYV2MCJQ"
+    },
+    {
+        "name": "cNote",
+        "address": "0x7a35088BE5a6E42D9C44378E3Ba193c34Ff031D4",
+        "symbol": "CNOTE",
+        "decimals": 18,
+        "chainId": 9624,
+        "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/note.png?token=GHSAT0AAAAAABVRJKF3GGOWCK227ZSTKRWAYV2MCJQ"
     },
     {
       "name": "Token1",
