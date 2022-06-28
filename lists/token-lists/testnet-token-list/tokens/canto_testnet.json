@@ -1,0 +1,138 @@
+[
+    {
+      "name": "Canto",
+      "symbol": "CANTO",
+      "decimals": 18,
+      "chainId": 9624,
+      "logoURI": ""
+    },
+    {
+      "name": "Aqua",
+      "address": "0x907a4036909d0a940f032f916b180e8002065C79",
+      "symbol": "AQUA",
+      "decimals": 18,
+      "chainId": 9624,
+      "logoURI": ""
+    },
+    {
+      "name": "cAqua",
+      "address": "0x58953D2E5D19c960cC7A45e8Bf40D44BeA0A696B",
+      "symbol": "CAQUA",
+      "decimals": 18,
+      "chainId": 9624,
+      "logoURI": ""
+    },
+    {
+      "name": "Fiji",
+      "address": "0xE79e2c0d74d2778e7CceDC38ca075732d16916D2",
+      "symbol": "FIJI",
+      "decimals": 18,
+      "chainId": 9624,
+      "logoURI": ""
+    },
+    {
+      "name": "cFiji",
+      "address": "0x933dFA46Ce7cA5e441257a260c0F506cCdd73C32",
+      "symbol": "CFIJI",
+      "decimals": 18,
+      "chainId": 9624,
+      "logoURI": ""
+    },
+    {
+      "name": "Evian",
+      "address": "0xac2CCc249bbbfcA9f6F7eFBCFEE747fe88D7bFcA",
+      "symbol": "EVIAN",
+      "decimals": 18,
+      "chainId": 9624,
+      "logoURI": ""
+    },
+    {
+      "name": "cEvian",
+      "address": "0x29375E0135e50AEb96bBF23C578649B91A9C84b3",
+      "symbol": "CEVIAN",
+      "decimals": 18,
+      "chainId": 9624,
+      "logoURI": ""
+    },
+    {
+      "name": "Token1",
+      "address": "0x4288Ef9004b2e163C2EfB97845A8142A9985f9a1",
+      "symbol": "T1",
+      "decimals": 18,
+      "chainId": 9624,
+      "logoURI": ""
+    },
+    {
+      "name": "Token0",
+      "address": "0xaFc41824aB7eceA40D21f146Ef2Be852A076b6CD",
+      "symbol": "T2",
+      "decimals": 18,
+      "chainId": 9624,
+      "logoURI": ""
+    },
+    {
+      "name": "Token2",
+      "address": "0x837fc5DCdB6b72BaF40358Be7375630d78d1CDaC",
+      "symbol": "T3",
+      "decimals": 18,
+      "chainId": 9624,
+      "logoURI": ""
+    },
+    {
+      "name": "Token3",
+      "address": "0x191d339f7675FbC8e06C79C84738B1FD621E4836",
+      "symbol": "T4",
+      "decimals": 18,
+      "chainId": 9624,
+      "logoURI": ""
+    },
+    {
+      "name": "Token4",
+      "address": "0x9843961777E002E8228D9589016dd172aa8E8e82",
+      "symbol": "T5",
+      "decimals": 18,
+      "chainId": 9624,
+      "logoURI": ""
+    },
+    {
+      "name": "Token5",
+      "address": "0x952991052488aDBc8544f12434167a79EEA97f93",
+      "symbol": "T6",
+      "decimals": 18,
+      "chainId": 9624,
+      "logoURI": ""
+    },
+    {
+      "name": "Token6",
+      "address": "0x31ec3471caE823B681452bE056da87ebCDE26e0C",
+      "symbol": "T7",
+      "decimals": 18,
+      "chainId": 9624,
+      "logoURI": ""
+    },
+    {
+      "name": "Token7",
+      "address": "0xEE898A852d6EA01aC15415D64668EFc2707f51B5",
+      "symbol": "T8",
+      "decimals": 18,
+      "chainId": 9624,
+      "logoURI": ""
+    },
+    {
+      "name": "Token8",
+      "address": "0x3F6F6ea97269ED31783a6640c0D6E7162482A0dA",
+      "symbol": "T9",
+      "decimals": 18,
+      "chainId": 9624,
+      "logoURI": ""
+    },
+    {
+      "name": "Token9",
+      "address": "0x0eE9447C8588Ea8Cf080f718232485044eF57ae6",
+      "symbol": "T10",
+      "decimals": 18,
+      "chainId": 9624,
+      "logoURI": ""
+    }
+    
+  ]
